@@ -1,0 +1,17 @@
+D:\Projects\Public\uni\c#\lab15\bin\Debug\lab15.exe.config
+D:\Projects\Public\uni\c#\lab15\bin\Debug\lab15.exe
+D:\Projects\Public\uni\c#\lab15\bin\Debug\lab15.pdb
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.csprojAssemblyReference.cache
+D:\Projects\Public\uni\c#\lab15\obj\Debug\EnterNumbers.g.cs
+D:\Projects\Public\uni\c#\lab15\obj\Debug\MainWindow.g.cs
+D:\Projects\Public\uni\c#\lab15\obj\Debug\App.g.cs
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15_MarkupCompile.cache
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15_MarkupCompile.lref
+D:\Projects\Public\uni\c#\lab15\obj\Debug\EnterNumbers.baml
+D:\Projects\Public\uni\c#\lab15\obj\Debug\MainWindow.baml
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.g.resources
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.Properties.Resources.resources
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.exe
+D:\Projects\Public\uni\c#\lab15\obj\Debug\lab15.pdb

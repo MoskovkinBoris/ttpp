@@ -1,0 +1,14 @@
+﻿<Window x:Class="lab15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="331.945">
+				<Grid Margin="0,0,2,0">
+								<Image Margin="10,10,0,0" Source="Image1.png" Stretch="Fill" HorizontalAlignment="Left" Width="286" Height="72" VerticalAlignment="Top"/>
+								<Button Content="Ввести количество слагаемых" HorizontalAlignment="Right" Width="178" Margin="0,0,26,10" Height="20" VerticalAlignment="Bottom" Click="Button_Click"/>
+
+				</Grid>
+</Window>
