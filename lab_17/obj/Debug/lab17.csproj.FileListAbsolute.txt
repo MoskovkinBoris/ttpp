@@ -1,0 +1,10 @@
+D:\Projects\Public\uni\c#\lab17\bin\Debug\lab17.exe.config
+D:\Projects\Public\uni\c#\lab17\bin\Debug\lab17.exe
+D:\Projects\Public\uni\c#\lab17\bin\Debug\lab17.pdb
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.csprojAssemblyReference.cache
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.Form1.resources
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.Properties.Resources.resources
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.csproj.GenerateResource.cache
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.exe
+D:\Projects\Public\uni\c#\lab17\obj\Debug\lab17.pdb
